@@ -31,6 +31,7 @@ public class SquareofSortedArray {
         }
 
         // squareSortArray(arr);
+        scn.close();
        
     }
 
